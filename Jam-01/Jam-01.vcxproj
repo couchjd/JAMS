@@ -70,12 +70,12 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <IncludePath>C:\Users\couch\Documents\PROGRAMMING\LIBRARIES\SFML-2.5.0\include;$(IncludePath)</IncludePath>
-    <LibraryPath>C:\Users\couch\Documents\PROGRAMMING\LIBRARIES\SFML-2.5.0\build\lib\Debug;$(LibraryPath)</LibraryPath>
+    <IncludePath>C:\Users\Jeff\Documents\Programming\JAMS\lib\SFML-2.5.1\include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Users\Jeff\Documents\Programming\JAMS\lib\SFML-2.5.1\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
-    <IncludePath>C:\Users\couch\Documents\PROGRAMMING\LIBRARIES\SFML-2.5.0\include;$(IncludePath)</IncludePath>
-    <LibraryPath>C:\Users\couch\Documents\PROGRAMMING\LIBRARIES\SFML-2.5.0\build\lib\Debug;$(LibraryPath)</LibraryPath>
+    <IncludePath>C:\Users\Jeff\Documents\Programming\JAMS\lib\SFML-2.5.1\include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Users\Jeff\Documents\Programming\JAMS\lib\SFML-2.5.1\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <IncludePath>C:\Users\couch\Documents\PROGRAMMING\LIBRARIES\SFML-2.5.0\include;$(IncludePath)</IncludePath>
